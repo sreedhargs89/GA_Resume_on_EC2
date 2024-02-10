@@ -3,6 +3,7 @@
 # Host Your Resume on AWS EC2 with a CI/CD Setup Using GitHub Actions
 
 This article helps you understand how you can automatically deploy your code to AWS EC2 from GitHub.
+Deployed Resume can be viewed here - http://ec2-13-60-15-196.eu-north-1.compute.amazonaws.com/
 
 ## Step 1: Create an EC2 Instance and Download the Key Pair.
 
